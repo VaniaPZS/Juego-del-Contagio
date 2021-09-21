@@ -1,0 +1,3 @@
+C:/Users/vania/CLionProjects/Juego del Contagio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vania/CLionProjects/Juego del Contagio/cmake-build-debug/CMakeFiles/Juego_del_Contagio.dir
+C:/Users/vania/CLionProjects/Juego del Contagio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

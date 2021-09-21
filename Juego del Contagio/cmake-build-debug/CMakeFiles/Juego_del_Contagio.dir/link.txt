@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Juego_del_Contagio.dir/objects.a
+C:\raylib\mingw\bin\ar.exe cr CMakeFiles\Juego_del_Contagio.dir/objects.a @CMakeFiles\Juego_del_Contagio.dir\objects1.rsp
+C:\raylib\mingw\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Juego_del_Contagio.dir/objects.a -Wl,--no-whole-archive  -o Juego_del_Contagio.exe -Wl,--out-implib,libJuego_del_Contagio.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Juego_del_Contagio.dir\linklibs.rsp
